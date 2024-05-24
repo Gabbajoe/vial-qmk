@@ -3,6 +3,7 @@
         "rows": 10,
         "cols": 6
     },
+    "lighting": "vialrgb",
     "layouts": {
         "keymap": [
             [{"x":3.5},"0,3",{"x":8.5},"5,3"],

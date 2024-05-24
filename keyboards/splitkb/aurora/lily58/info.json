@@ -1,7 +1,7 @@
 {
-    "manufacturer": "splitkb.com",
+    "manufacturer": "Gabbajoe",
     "url": "https://splitkb.com",
-    "maintainer": "splitkb",
+    "maintainer": "gabbajoe",
     "usb": {
         "vid": "0x8D1D",
         "device_version": "1.0.0"
