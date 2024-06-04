@@ -1,3 +1,6 @@
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 VIALRGB_ENABLE = yes
+CONVERT_TO=elite_pi
+ENCODER_ENABLE = no
+LTO_ENABLE = yes
